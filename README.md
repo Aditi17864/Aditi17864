@@ -119,7 +119,7 @@ const aditi = {
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Aditi17864/Aditi17864/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Aditi17864/Aditi17864/output/github-snake-dark.svg)
 
 ---
 
