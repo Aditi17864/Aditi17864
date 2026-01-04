@@ -43,20 +43,6 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ---
 
-<div align="center">
-
-## 🚀 My Github Stats
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditi17864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi17864&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&langs_count=6" />
-
-</div>
-
----
 
 <div align="center">
 
