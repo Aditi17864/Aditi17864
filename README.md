@@ -6,7 +6,6 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Internships-success?style=flat-square&logo=handshake&logoColor=white)
 ![Hiring](https://img.shields.io/badge/Available%20For-Collaborations-success?style=flat-square&logo=github&logoColor=white)
-![Contact](https://img.shields.io/badge/Contact%20Me-Anytime-success?style=flat-square&logo=gmail&logoColor=white)
 
 ---
 
@@ -42,35 +41,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
----
-
-<div align="center">
-
-## 🚀 My Github Stats
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditi17864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi17864&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&langs_count=6" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=Aditi17864&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E&sideLabels=FF006E" width="70%" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 📫 Connect With Me
 
