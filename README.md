@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=नमस्ते,%20I'm%20Aditi%20☀️&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Web%20Developer%20in%20Making&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=नमस्ते,%20I'm%20Aditi%20☀️&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20%20Undergrad%20Student%20&descSize=20&descAlignY=55)
 
 </div>
 
