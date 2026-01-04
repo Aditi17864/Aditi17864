@@ -1,13 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=नमस्ते,%20I'm%20Aditi%20Rai%20☀️&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Mumbai%20India%20in%20Making&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=नमस्ते,%20I'm%20Aditi%20☀️&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Web%20Developer%20in%20Making&descSize=20&descAlignY=55)
 
-</div>
-<div>
-  🌸 about this human 🌸
-  <p>
-    identity: "cs student + tech enthusiast"
-  </p>
 </div>
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Internships-success?style=flat-square&logo=handshake&logoColor=white)
@@ -43,11 +37,39 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 ---
+
+<div align="center">
+
+## 🚀 My Github Stats
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditi17864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FF006E&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi17864&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Aditi17864&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E&sideLabels=FF006E" width="70%" />
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📫 Connect With Me
