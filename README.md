@@ -1,7 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=नमस्ते,%20I'm%20Aditi%20Rai%20☀️&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Web%20Developer%20in%20Making&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=नमस्ते,%20I'm%20Aditi%20Rai%20☀️&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Mumbai%20India%20in%20Making&descSize=20&descAlignY=55)
 
+</div>
+<div>
+  🌸 about this human 🌸
+  <p>
+    identity: "cs student + tech enthusiast"
+  </p>
 </div>
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Internships-success?style=flat-square&logo=handshake&logoColor=white)
