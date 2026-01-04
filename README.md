@@ -42,16 +42,6 @@
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ---
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=Aditi17864&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E&sideLabels=FF006E" width="70%" />
-
-</div>
-
----
-
 <div align="center">
 
 ## 📫 Connect With Me
