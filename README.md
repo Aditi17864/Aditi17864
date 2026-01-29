@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## 🛠️ Technology Stack
+##🛠️ Technology Stack
 
 </div>
 
